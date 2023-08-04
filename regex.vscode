@@ -1,0 +1,6 @@
+Instructions:
+- Ctrl+H in vscode
+- add this regex to regex box ->> ^ ?(.+)$
+- add this regex to regex box ->> "$1",
+
+Done!
